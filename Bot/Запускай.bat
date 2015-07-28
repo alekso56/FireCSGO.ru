@@ -1,0 +1,3 @@
+node tradebot.js
+
+pause
